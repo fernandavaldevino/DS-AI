@@ -1,2 +1,2 @@
 # DS-AI
-Materials and study files about Data Science and Artificial Intelligence
+Materiais e arquivos de estudo sobre Ciência de Dados e Inteligência Artificial
